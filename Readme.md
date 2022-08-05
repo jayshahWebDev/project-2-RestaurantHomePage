@@ -6,8 +6,8 @@
 <br>
 
 - ## What I have learned from this project?
-    - ## learn about set image as a background
-    - ## how to change opacity of background image
+    -  learn about set image as a background
+    -  how to change opacity of background image
 <br>
 <br>
 
